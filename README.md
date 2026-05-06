@@ -61,13 +61,11 @@ philosophy: |
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Roxy-Migurdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&ring_color=7B68EE" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxy-Migurdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B68EE&text_color=c9d1d9&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=Roxy-Migurdi&theme=tokyonight&hide_border=true&background=0D1117&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&sideLabels=7B68EE" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roxy-Migurdi&theme=tokyonight&hide_border=true&background=0d1117&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&sideLabels=7B68EE&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=80&section=footer&fontSize=0" width="100%"/>
 
 </div>
 
