@@ -70,6 +70,17 @@
 
 </div>
 
+<!-- THE RADAR -->
+## 📡 The Radar
+
+<div align="center">
+
+*dynamic stats · auto-updated via GitHub Actions*
+
+<img src="./metrics.svg" width="95%" alt="Metrics" />
+
+</div>
+
 <!-- FOOTER -->
 <div align="center">
 
