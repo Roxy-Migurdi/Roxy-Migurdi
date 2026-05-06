@@ -115,4 +115,8 @@ philosophy: |
 
 ![Visitors](https://komarev.com/ghpvc/?username=Roxy-Migurdi&color=7B68EE&style=for-the-badge&label=VISITORS)
 
+<br><br>
+
+<img src="./footer.gif" width="500" alt="Roxy vibes" />
+
 </div>
