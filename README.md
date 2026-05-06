@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- HERO BANNER -->
+<img src="./banner.gif" width="600" alt="Roxy Migurdia" />
+
+<br>
+
 <!-- ANIMATED HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%AE+%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%87%E3%82%A3;%E5%BC%95%E3%81%8D%E3%81%93%E3%82%82%E3%82%8A%E9%AD%94%E8%A1%93%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
 
